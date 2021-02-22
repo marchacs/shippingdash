@@ -3,14 +3,15 @@
     background-color:azure;
 }
 
-h1,h2,h3,h4,h5{font-family: 'Raleway', sans-serif;}
+h1,h2,h3,h4,h5{font-family: 'Raleway', sans-serif; text-align: center;}
 
-p{font-family: 'Lora', serif;}
+p{font-family: 'Lora', serif; font-size: 25px;padding-top:20px;}
 
 a{font-family: 'Raleway', sans-serif; font-size: 25px; text-decoration: none;}
 
 .blue{ color:#2FBAF1;}
 
-.logo{width:15%; }
+.logo{width:15%;
+padding: 0;}
 
-ul{list-style-type: none;}
+navbar{float:left;}
